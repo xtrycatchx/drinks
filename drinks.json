@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Kopi",
+    "description": "Black coffee with condensed milk and sugar"
+  },
+  {
+    "id": 2,
+    "name": "Kopi O",
+    "description": "Black coffee with sugar"
+  },
+  {
+    "id": 3,
+    "name": "Kopi C",
+    "description": "Black coffee with evaporated milk and sugar"
+  },
+  {
+    "id": 4,
+    "name": "Kopi Kosong",
+    "description": "Black coffee without sugar or milk"
+  },
+  {
+    "id": 5,
+    "name": "Teh",
+    "description": "Tea with Milk"
+  },
+  {
+    "id": 6,
+    "name": "Teh O",
+    "description": "Tea without milk"
+  }
+]
